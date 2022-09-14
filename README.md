@@ -11,10 +11,10 @@
     <a  style="font-family:verdana;" href="">Video Demo</a>
     ·
     <!-- Report Bug -->
-    <a style="font-family:verdana;" href="/issues">Report Bug</a>
+    <a style="font-family:verdana;" href="https://github.com/Deerah1234/File-Organizer/issues">Report Bug</a>
     ·
     <!-- Request Feature -->
-    <a style="font-family:verdana;" href="/issues">Request Feature</a>
+    <a style="font-family:verdana;" href="https://github.com/Deerah1234/File-Organizer/issues">Request Feature</a>
   </p>
 </div>
 
@@ -23,32 +23,32 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="https://github.com/Deerah1234/Paasword-Generator#about-the-project">About The Project</a>
+      <a href="https://github.com/Deerah1234/File-Organizer#about-the-project">About The Project</a>
       <ul>
-        <li><a href="https://github.com/Deerah1234/Paasword-Generator#built-with">Built With</a></li>
+        <li><a href="https://github.com/Deerah1234/File-Organizer#built-with">Built With</a></li>
       </ul>
       <ul>
-        <li><a href="https://github.com/Deerah1234/Paasword-Generator#packages">Packages</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="https://github.com/Deerah1234/Paasword-Generator#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="https://github.com/Deerah1234/Paasword-Generator#prerequisites">Prerequisites</a></li>
+        <li><a href="https://github.com/Deerah1234/File-Organizer#packages">Packages</a></li>
       </ul>
     </li>
     <li>
-      <a href="https://github.com/Deerah1234/Paasword-Generator#usage">Usage</a>
+      <a href="https://github.com/Deerah1234/File-Organizer#getting-started">Getting Started</a>
       <ul>
-        <li><a href="https://github.com/Deerah1234/Paasword-Generator#installation">Installation</a></li>
+        <li><a href="https://github.com/Deerah1234/File-Organizer#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="https://github.com/Deerah1234/Paasword-Generator#run-tests">Run Tests</a></li>
-    <li><a href="https://github.com/Deerah1234/Paasword-Generator#contributors">Contributors</a></li>
-    <li><a href="https://github.com/Deerah1234/Paasword-Generator#contributing">Contributing</a></li>
-    <li><a href="https://github.com/Deerah1234/Paasword-Generator#show-your-support:">Show Your Support</a></li>  
-    <li><a href="https://github.com/Deerah1234/Paasword-Generator#contact">Contact</a></li>
-    <li><a href="https://github.com/Deerah1234/Paasword-Generator#acknowledgments">Acknowledgments</a></li>
+    <li>
+      <a href="https://github.com/Deerah1234/File-Organizer#usage">Usage</a>
+      <ul>
+        <li><a href="https://github.com/Deerah1234/File-Organizer#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="https://github.com/Deerah1234/File-Organizer#run-tests">Run Tests</a></li>
+    <li><a href="https://github.com/Deerah1234/File-Organizer#contributors">Contributors</a></li>
+    <li><a href="https://github.com/Deerah1234/File-Organizer#contributing">Contributing</a></li>
+    <li><a href="https://github.com/Deerah1234/File-Organizer#show-your-support:">Show Your Support</a></li>  
+    <li><a href="https://github.com/Deerah1234/File-Organizer#contact">Contact</a></li>
+    <li><a href="https://github.com/Deerah1234/File-Organizer#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -81,10 +81,10 @@ File Organizer is a program that organize files into folders on your computer. T
 <h4 style="font-family:verdana;">Packages:</h4>
 <p style="font-family:verdana;">
 
-You can find all the packages and their version used, in the **[requirements.txt](https://github.com/Deerah1234/Paasword-Generator/blob/main/Project/requirements.txt)** file
+You can find all the packages and their version used, in the **[requirements.txt](https://github.com/Deerah1234/File-Organizer/blob/main/Project/requirements.txt)** file
 
 </p>
-<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/File-Organizer#file-organizer">back to top</a></p>
 
 
 <!-- GETTING STARTED -->
@@ -93,7 +93,7 @@ You can find all the packages and their version used, in the **[requirements.txt
 <!-- DOWNLOAD -->
 <h4 style="font-family:verdana;">Download:</h4>
 
-You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/refs/heads/main.zip) the source code** to run the script from the command line on Windows, macOS and Linux. **This will require [Python](https://www.python.org/downloads/).**
+You can **[download](https://github.com/Deerah1234/File-Organizer/archive/refs/heads/main.zip) the source code** to run the script from the command line on Windows, macOS and Linux. **This will require [Python](https://www.python.org/downloads/).**
 
 <!-- PREREQUISITES -->
 <h4 style="font-family:verdana;">Prerequisites:</h4>
@@ -103,7 +103,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
     
     **From Python official website: [Python](https://www.python.org/downloads/)**
 </p>
-<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/File-Organizer#file-organizer">back to top</a></p>
 
 
 <!-- USAGE -->
@@ -116,7 +116,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
 1. **Clone the repo**
 
    ```sh
-   git clone https://github.com/Deerah1234/Paasword-Generator.git
+   git clone https://github.com/Deerah1234/File-Organizer.git
    ```
 
 2. **Change Directory (cd) into where the files are located**
@@ -148,7 +148,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
       source my_venv/bin/activate
       ```
 
-4. **Download all the packages from the **[requirements.txt](https://github.com/Deerah1234/Paasword-Generator/blob/main/Project/requirements.txt)** file**
+4. **Download all the packages from the **[requirements.txt](https://github.com/Deerah1234/File-Organizer/blob/main/Project/requirements.txt)** file**
     - _**Windows, MacOs, Linux**_
 
       ```sh
@@ -168,7 +168,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
       ```
 6. **Follow the prompts and see how the program work**
 </p>
-<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/File-Organizer#file-organizer">back to top</a></p>
 
 
 <!-- RUN TEST -->
@@ -185,7 +185,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
    
 2. **Follow the prompt to test**
 </p>
-<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/File-Organizer#file-organizer">back to top</a></p>
 
 
 <!-- CONTRIBUTORS -->
@@ -194,7 +194,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
 
 * **[@Nqabenhle](https://github.com/nqabenhle)**
 </p>
-<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/File-Organizer#file-organizer">back to top</a></p>
 
 
 <!-- CONTRIBUTING -->
@@ -209,7 +209,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
 - Submit a pull request to the master branch or the appropriate branch
 - I will be happy to review your pull request
 </p>
-<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/File-Organizer#file-organizer">back to top</a></p>
 
 <!-- SHOW YOUR SUPPORT -->
 <h3 style="font-family:verdana;">Show Your Support:</h3>
@@ -217,7 +217,7 @@ You can **[download](https://github.com/Deerah1234/Paasword-Generator/archive/re
 
 Give a :star: if you like this project!.
 </p>
-<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/File-Organizer#file-organizer">back to top</a></p>
 
 <!-- CONTACT -->
 <h3 style="font-family:verdana;">Contact:</h3>
@@ -227,7 +227,7 @@ Give a :star: if you like this project!.
 
 **LinkedIn**: **[@EmmanuelJames](https://www.linkedin.com/in/emmanuel-james-0418b323b/)**
 </p>
-<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/File-Organizer#file-organizer">back to top</a></p>
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -236,15 +236,15 @@ Give a :star: if you like this project!.
 
 I want to thank **GOD** for making this project a success.
 </p>
-<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/File-Organizer#file-organizer">back to top</a></p>
 
 <!-- LICENSE -->
 <h3 style="font-family:verdana;">License:</h3>
 <p style="font-family:verdana;">
 
-This project is **[MIT](https://github.com/Deerah1234/Paasword-Generator/blob/main/LICENSE)** licensed. 
+This project is **[MIT](https://github.com/Deerah1234/File-Organizer/blob/main/LICENSE)** licensed. 
 </p>
-<p align="right"><a href="https://github.com/Deerah1234/Paasword-Generator#password-generator">back to top</a></p>
+<p align="right"><a href="https://github.com/Deerah1234/File-Organizer#file-organizer">back to top</a></p>
 
 
 <h6 style="font-family:verdana;" align="center"><em>@cyiomDev - 2022<em></h6>
