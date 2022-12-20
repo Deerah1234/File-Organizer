@@ -164,7 +164,7 @@ You can **[download](https://github.com/Deerah1234/File-Organizer/archive/refs/h
       ```
       _**Windows**_
       ```powershell
-      py project.py
+      py main.py
       ```
 6. **Follow the prompts and see how the program work**
 </p>
