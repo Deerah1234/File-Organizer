@@ -226,6 +226,8 @@ Give a :star: if you like this project!.
 **Github**: **[@Deerah1234](https://twitter.com/deerah1234)**
 
 **LinkedIn**: **[@EmmanuelJames](https://www.linkedin.com/in/emmanuel-james-0418b323b/)**
+
+**Twitter**: **[@0xDeerah](https://twitter.com/0xDeerah)**
 </p>
 <p align="right"><a href="https://github.com/Deerah1234/File-Organizer#file-organizer">back to top</a></p>
 
